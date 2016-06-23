@@ -1,3 +1,4 @@
+name 'phantomjs'
 maintainer 'CustomInk'
 maintainer_email 'webops@customink.com'
 license 'Apache 2.0'
